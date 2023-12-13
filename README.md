@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JehoAnna
+- 👋 Hi, I’m @AndrewJohn
 - 👀 I’m interested in ...data science, machine learning, deep learning, java, python, R
 - 🌱 I’m currently learning ... java, funtamentals of computer science
 - 💞️ I’m looking to collaborate on ...basic projects to improve my experience
